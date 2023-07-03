@@ -49,6 +49,12 @@ Best model accuracy of hyperdrive is 0.90319.
 
 Best model accuracy of auto-ML is 0.91724.
 
+In hyperparameter tuning, only LogisticRegression is used for algorithm and improve of accuracy is conducted only tuning of hyperparameters.
+
+On the other hand, in auto-ML, other algorithm is used and hyperparameters is tuned comprehensive.
+
+So accuracy of auto-ML is superior compared with hyperdrive.
+
 
 ## The identification of areas to improve the outcome
 It is assumed that by using deel lerning technique, the accuracy will be improved since the DL can has more complex structure.
