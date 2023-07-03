@@ -45,7 +45,7 @@ Other top model is almost all LightBGM or XGBoost.
 Since these models is often highly rated in competition, the performance is shown in this report too.
 
 ## Comparison of hyperdrive and auto-ML
-Best model accuracy of hyperdrive is 0.9048.
+Best model accuracy of hyperdrive is 0.9051.
 
 Best model accuracy of auto-ML is 0.91724.
 
